@@ -1,2 +1,12 @@
-# cpp_programming
-repository involving basic cpp programming
+# Basic C++ Programming
+
+Installing the C++ compiler on MAC OS
+
+```sh
+xcode-select --install
+```
+
+Check the version
+```sh
+g++ --version
+```
